@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
    'Dengue',
-    'Qual é a principal forma de prevenção da dengue',
+    'Qual é a principal forma de prevenção da dengue?',
     'A principal forma de prevenção da dengue é evitar a proliferação do mosquito Aedes aegypti, eliminando recipientes com água parada, como pneus, garrafas e vasos de plantas.'
 )
 
